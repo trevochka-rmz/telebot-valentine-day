@@ -13,7 +13,7 @@
 ### 1️⃣ Клонирование репозитория  
 ```bash
 git clone https://github.com/trevochka-rmz/telebot-valentine-day.git
-cd telebot-valentine-day
+cd telebot-valentine-day/JavaScript
 ```
 
 ### 2️⃣ Установка зависимостей  
